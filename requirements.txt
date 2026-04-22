@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-joblib
-scikit-learn
-statsmodels
-tensorflow-cpu==2.15.0
